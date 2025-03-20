@@ -5,4 +5,5 @@
 [LAB 04 : "https://github.com/2303A51891/admlab/blob/main/ADM_LAB04.ipynb" ]         
 [LAB 05 : "https://github.com/2303A51891/admlab/blob/main/ADM_LAB_05.ipynb"]                                             
 [LAB 06 : "https://github.com/2303A51891/admlab/blob/main/ADM_LAB_06.ipynb"]                              
-[LAB 07 : "https://github.com/2303A51891/admlab/blob/main/ADM_LAB_07.ipynb"]
+[LAB 07 : "https://github.com/2303A51891/admlab/blob/main/ADM_LAB_07.ipynb"]                                
+[LAB 08 : "https://github.com/2303A51891/admlab/blob/main/ADMLAB_08.ipynb"]
